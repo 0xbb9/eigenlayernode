@@ -1,7 +1,7 @@
 {
-  "name": "goingonchain",
-  "website": "https://twitter.com/goingonchain",
-  "description": "learning to build onchain",
-  "logo": "https://placehold.co/600x400/EEE/31343C",
-  "twitter": "https://twitter.com/goingonchain"
+  "name":"goingonchain",
+  "website":"https://twitter.com/goingonchain",
+  "description":"learning to build onchain",
+  "logo":"example.com/logo.png",
+  "twitter":"https://twitter.com/goingonchain"
 }
